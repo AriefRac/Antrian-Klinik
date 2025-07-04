@@ -20,3 +20,4 @@ Aplikasi desktop sederhana untuk mengelola sistem antrian di klinik menggunakan 
 2. Download atau clone repository ini:
    ```bash
    git clone https://github.com/AriefRac/Antrian-Klinik.git
+3. Buka terminal atau command prompt, lalu jalankan: python hospital_queue.py
